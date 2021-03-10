@@ -6,7 +6,7 @@ function TopNav(props){
         <Navbar bg="dark" variant="dark">
         <Navbar.Brand href="#home">Daron Schmit</Navbar.Brand>
         <Nav className="mr-auto">
-          <Nav.Link href="/Bio">Bio</Nav.Link>
+          <Nav.Link href="/">Home</Nav.Link>
           <Nav.Link href="/Projects">Projects</Nav.Link>
           <Nav.Link href="https://github.com/DaronSchmit">Github</Nav.Link>
         </Nav>
