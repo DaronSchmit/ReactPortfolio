@@ -1,10 +1,6 @@
 {
   "name": "portfolio",
-<<<<<<< HEAD
-  "homepage": "https://daronschmit.github.io/ReactPortfolio/",
-=======
   "homepage": "https://daronschmit.github.io/ReactPortfolio",
->>>>>>> gh-pages
   "version": "0.1.0",
   "private": true,
   "dependencies": {
