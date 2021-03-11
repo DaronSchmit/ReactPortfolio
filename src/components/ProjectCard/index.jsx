@@ -1,10 +1,11 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
+import "./style.css";
 
 function ProjectCard(props){
     return(
-        <Card >
+        <Card>
         <Card.Img variant="top" src={props.project.screencap} />
         <Card.Body>
             <Card.Title>{props.project.name}</Card.Title>

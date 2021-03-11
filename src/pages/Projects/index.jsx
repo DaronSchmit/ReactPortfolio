@@ -7,7 +7,7 @@ function Projects(props){
     console.log(projects);
 
     return(        
-        <div className="row row-cols-lg-2 row-cols-md-2 row-cols-sm-1 g-4">
+        <div className="row row-cols-lg-1 row-cols-md-2 row-cols-sm-1 g-4">
         {projects.map(project => (<ProjectCard project={project}/>))}
       </div>
         )

@@ -2,7 +2,7 @@
     {
         "id":1,
         "name":"User Directory",
-        "screencap": "https://github.com/DaronSchmit/ReactPortfolio/blob/main/src/assets/images/WeatherApp.png?raw=true",
+        "screencap": "https://github.com/DaronSchmit/ReactPortfolio/blob/main/src/assets/images/EmployeeDirectory.png?raw=true",
         "description": "A basic webapp that pulls randomly generated user info from randomuserAPI, renders it using react, and allows a user to search by a few criteria.",
         "githubURL": "https://github.com/DaronSchmit/EmployeeDirectory/tree/dev",
         "deployedURL": "https://daronschmit.github.io/EmployeeDirectory/"
