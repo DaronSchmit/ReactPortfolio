@@ -4,9 +4,12 @@ import projectArray from "../../assets/js/projects.json"
 
 function Projects(props){
     const projects = projectArray;
+    console.log(projects);
 
     return(        
-        <ProjectCard project={projects[0]} />
+        <div className="row row-cols-lg-2 row-cols-md-2 row-cols-sm-1 g-4">
+        {projects.map(project => (<ProjectCard project={project}/>))}
+      </div>
         )
 }
 

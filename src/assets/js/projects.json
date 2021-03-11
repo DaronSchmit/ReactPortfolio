@@ -1,16 +1,16 @@
 [
     {
         "id":1,
-        "name":"Weather API App",
-        "screencap": "../images/WeatherApp.png",
-        "description": "A basic webapp that pulls info from the open weather API to display for a user. Uses local storage to store searches on refreshes.",
-        "githubURL": "https://github.com/DaronSchmit/WeatherAPI",
-        "deployedURL": "https://daronschmit.github.io/WeatheAPI/"
+        "name":"User Directory",
+        "screencap": "https://github.com/DaronSchmit/ReactPortfolio/blob/main/src/assets/images/WeatherApp.png?raw=true",
+        "description": "A basic webapp that pulls randomly generated user info from randomuserAPI, renders it using react, and allows a user to search by a few criteria.",
+        "githubURL": "https://github.com/DaronSchmit/EmployeeDirectory/tree/dev",
+        "deployedURL": "https://daronschmit.github.io/EmployeeDirectory/"
     },
     {
         "id":2,
         "name":"BeerDay Helper",
-        "screencap": "../images/BeerDayHelper.png",
+        "screencap": "https://github.com/DaronSchmit/ReactPortfolio/blob/main/src/assets/images/BeerDayHelper.png?raw=true",
         "description": "This website was established for all beer lovers. This application allows the user to find the best crafted breweries located in any city or town they want. The user will have the option to type in their preferred brewery and the brewer's company name, address and website will pop up. WeatherAPI was used to generate the current weather time and temperature of said Brewery location.",
         "githubURL": "https://github.com/DaronSchmit/Beer-Day-Helper",
         "deployedURL": "https://daronschmit.github.io/Beer-Day-Helper/"
@@ -18,7 +18,7 @@
     {
         "id":3,
         "name":"Dinner and a Movie",
-        "screencap": "../images/DinnerAndAMovie.png",
+        "screencap": "https://github.com/DaronSchmit/ReactPortfolio/blob/main/src/assets/images/DinnerAndAMovie.png?raw=true",
         "description": "A Fun web application that allows users to generate a fun dinner idea to pair with whatever movie they are watching that night! These pairings can be saved and rated by the community!",
         "githubURL": "https://github.com/DaronSchmit/DinnerAndAMovie",
         "deployedURL": "https://mysterious-retreat-01401.herokuapp.com/"
@@ -26,7 +26,7 @@
     {
         "id":4,
         "name":"Burger MVC Homework",
-        "screencap": "../images/Burger.png",
+        "screencap": "https://github.com/DaronSchmit/ReactPortfolio/blob/main/src/assets/images/Burger.png?raw=true",
         "description": "A homework excercise in creating a burger-managing app using an MVC design pattern. Deployed to heroku using JawsDB based on a SQL database",
         "githubURL": "https://github.com/DaronSchmit/burger",
         "deployedURL": "https://pure-springs-30503.herokuapp.com/"
