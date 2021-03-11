@@ -30,5 +30,21 @@
         "description": "A homework excercise in creating a burger-managing app using an MVC design pattern. Deployed to heroku using JawsDB based on a SQL database",
         "githubURL": "https://github.com/DaronSchmit/burger",
         "deployedURL": "https://pure-springs-30503.herokuapp.com/"
+    },
+    {
+        "id":5,
+        "name":"PWA Budget App",
+        "screencap": "https://github.com/DaronSchmit/ReactPortfolio/blob/main/src/assets/images/PWABudgetTracker.png?raw=true",
+        "description": "A homework excercise in making a downloadable web application to help a user track their budget",
+        "githubURL": "https://github.com/DaronSchmit/PWABudgetTracker",
+        "deployedURL": "https://daron-budget-tracker.herokuapp.com/"
+    },
+    {
+        "id":6,
+        "name":"Note Taker",
+        "screencap": "https://github.com/DaronSchmit/ReactPortfolio/blob/main/src/assets/images/NoteTaker.png?raw=true",
+        "description": "A Note Taking application demonstrating api read/write routes and html serving routes",
+        "githubURL": "https://github.com/DaronSchmit/NoteTaker",
+        "deployedURL": "https://pure-springs-30503.herokuapp.com/"
     }
 ]
