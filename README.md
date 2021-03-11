@@ -2,23 +2,9 @@
 
 In this project, I took my previous Bootstrap portfolio and refactored it to be rendered with React. It is hosted using github pages and react-router.
 
-## Requirements
+## Use
 
-* Updated portfolio featuring 6 total projects
-
-* Use React
-
-* A `Header` component that appears on multiple pages
-
-* A single `Project` component that will be used multiple times on a single page 
-
-* Navigation with React Router, dynamic rendering, or another third part router
-
-* A `Footer` component that appears on multiple pages
-
-* Update GitHub profile with pinned repositories featuring those same projects
-
-* Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
+This is my current working portfolio that demonstrates my use of React and being able to refactor old code into new code using best practices.
 
 ## Grading
 
