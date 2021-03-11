@@ -2,8 +2,8 @@ import React from "react";
 
 function ContactHeader(props){
     return(
-        <header class="row">
-            <header class = "col-sm-12">
+        <header className="row">
+            <header className="col-sm-12 text-center">
                 <h1>Contact Me!</h1>
             </header>
         </header>

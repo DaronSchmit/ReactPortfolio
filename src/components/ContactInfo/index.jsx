@@ -2,7 +2,7 @@ import React from "react";
 
 function ContactInfo(props){
     return(
-        <section class = "col-sm-12 col-md-4">
+        <section class = "col-sm-12 col-md-4 text-center">
             <br></br>
             <h2>Personal Contact Info</h2>
             <h4>If you'd like to get a hold of me, you may call/text me at </h4>
