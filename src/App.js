@@ -6,6 +6,7 @@ import NoMatch from './pages/NoMatch';
 import TopNav from './components/Nav';
 import Projects from './pages/Projects';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -15,10 +16,10 @@ function App() {
       <br></br>
       <div className="container">
           <Switch>
-              <Route exact path="/">
+              <Route exact path="/ReactPortfolio/">
                 <Home/>
               </Route>
-              <Route exact path="/Projects">
+              <Route exact path="/ReactPortfolio/Projects">
                 <Projects />
               </Route>
               <Route exact path="*">
@@ -26,6 +27,7 @@ function App() {
               </Route>
           </Switch>
       </div>
+      <Footer />
     </BrowserRouter>
   );
 }
