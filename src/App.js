@@ -11,15 +11,15 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <TopNav/>
       <br></br>
       <div className="container">
           <Switch>
-              <Route exact path="/ReactPortfolio/">
+              <Route exact path="/">
                 <Home/>
               </Route>
-              <Route exact path="/ReactPortfolio/Projects">
+              <Route exact path="/Projects">
                 <Projects />
               </Route>
               <Route exact path="*">
