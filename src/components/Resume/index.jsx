@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../../assets/images/resume.pdf";
+import resume from "../../assets/images/daronthewebdev.pdf";
 
 function Resume(props){
     return(
