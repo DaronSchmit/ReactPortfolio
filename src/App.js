@@ -5,7 +5,6 @@ import Home from './pages/Home';
 // import NoMatch from './pages/NoMatch';
 // import TopNav from './components/Nav';
 // import Projects from './pages/Projects';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Footer from "./components/Footer";
 // import ContactMe from "./pages/ContactMe";
 
