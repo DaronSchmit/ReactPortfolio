@@ -1,32 +1,24 @@
 import React from "react";
 import './App.css';
-import { HashRouter as Router, Route, Switch} from "react-router-dom";
+// import { HashRouter as Router, Route, Switch} from "react-router-dom";
 import Home from './pages/Home';
-import NoMatch from './pages/NoMatch';
-import TopNav from './components/Nav';
-import Projects from './pages/Projects';
+// import NoMatch from './pages/NoMatch';
+// import TopNav from './components/Nav';
+// import Projects from './pages/Projects';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Footer from "./components/Footer";
-import ContactMe from "./pages/ContactMe";
+// import ContactMe from "./pages/ContactMe";
 
 
 function App() {
-  console.log(process.env.PUBLIC_URL);
-  
+ 
   return (
-    <Router basename={process.env.PUBLIC_URL}>
-      <TopNav/>
-      <br></br>
+    <>
       <div className="container">
-          <Switch>
-              <Route exact path="/" component={Home} />
-              <Route exact path="/Projects" component={Projects}/>
-              <Route exact path="/Contact" component={ContactMe}/>
-              <Route component={NoMatch} status={404}/>
-          </Switch>
+        <Home />
       </div>
       <Footer />
-    </Router>
+    </>
   );
 }
 

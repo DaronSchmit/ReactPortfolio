@@ -1,10 +1,11 @@
 import React from "react";
+import './style.css'
 
-function Footer(props){
+function Footer(){
     return(
-        <div fixed="bottom" className="text-center sticky-bottom card-footer bg-dark footer-font-style text-muted footer-position">
+        <footer id="footer">
           <p>Copyright Daron Schmit 2021</p>
-        </div>
+        </footer>
         )
 }
 

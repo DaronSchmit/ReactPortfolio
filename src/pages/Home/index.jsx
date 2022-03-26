@@ -4,10 +4,10 @@ import Statblock from "../../components/Statblock";
 
 function Home(props){
     return(
-        <div className="row">
+        <main id="main-wrapper">
             <Bio />
             <Statblock />
-        </div>
+        </main>
         )
 }
 

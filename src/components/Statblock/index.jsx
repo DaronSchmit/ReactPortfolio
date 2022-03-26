@@ -5,9 +5,8 @@ function Statblock(props){
     return(
         
         //   <!-- DnD Statblock credit and license nested above closing </aside>. Inner HTML intentionally left out of semantics because it's gnarly not originally mine. -->
-          <aside className="col-sm-8">
+          <aside>
             <div className="stat-block">
-              <hr className="orange-border" />
               <div className="section-left">
                   <div className="creature-heading">
                       <h1>Daron Schmit</h1>
@@ -144,7 +143,6 @@ function Statblock(props){
                   {/* <!-- actions --> */}
               </div> 
               {/* <!-- section right --> */}
-              <hr className="orange-border bottom" />
           </div> 
           {/* <!-- stat block --> */}
 
