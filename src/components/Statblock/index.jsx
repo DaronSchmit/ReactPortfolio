@@ -1,7 +1,7 @@
 import React from "react";
 import "./statblockstyle.css";
 
-function Statblock(props){
+function Statblock(_props){
     return(
         
         //   <!-- DnD Statblock credit and license nested above closing </aside>. Inner HTML intentionally left out of semantics because it's gnarly not originally mine. -->
@@ -17,7 +17,7 @@ function Statblock(props){
                 </svg>
                   <div className="top-stats">
                       <div className="property-line first">
-                          <h4>Armor ClassName</h4>
+                          <h4>Armor Class </h4>
                           <p>12</p>
                       </div> 
                       <div className="property-line">

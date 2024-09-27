@@ -1,4 +1,15 @@
-#headshot-wrapper {
-    border-radius: 4px;
-    border: 1px solid rgba(0, 0, 0, 0.12);
+section {
+  margin-top: 10px;
+  border-top: solid #922610;
+  border-bottom: solid #922610;
+  background-color: #e1cca6;
+}
+.headshot-wrapper {
+  background-image: url('../../assets/images/headshot.jpeg');
+  box-shadow: 0 0 4rem #F1E9D2 inset;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+img {
+  opacity: 0;
 }

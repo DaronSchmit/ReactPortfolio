@@ -16,14 +16,13 @@ h4{
 
   .stat-block {
     text-align: left;
+    background-image: linear-gradient(#e1cca6, #F1E9D2);
     margin: 0px 20px 20px 20px;
     display: inline-block;
     vertical-align: top;
     width: 17%;
     min-width:280px;
     width: 90%;
-    background-image: url(../../assets/images/Y1.png);
-    background-size: 1000px 2000px;
     padding: 5px 10px 20px;
     box-shadow: 0 0 .25em #867453;
     border-radius: 4px;
