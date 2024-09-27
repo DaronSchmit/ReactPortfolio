@@ -11,9 +11,7 @@ function Bio() {
       <section>
         <h2>Daron Schmit</h2>
         <p>
-          Daron is a Senior Software Engineer <strong>(NG Human)</strong>. He
-          can be found in an house in Roseville, brooding at his computer,
-          writing code for money.
+          Daron is a Senior Software Engineer <strong>(NG Human)</strong>.
         </p>
         <p>
           Oftentimes, Daron is found hunched over his hobby desk, assembling and
